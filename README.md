@@ -19,12 +19,12 @@ deploing yaml files
 
 get external IP address of mongo-express
 
-`minikube get service mongo-express-service`
+`minikube service mongo-express-service`
 
 
 get external IP address of app
 
-`minikube get service app-svc`
+`minikube service app-svc`
 
 
 get the IP address by
